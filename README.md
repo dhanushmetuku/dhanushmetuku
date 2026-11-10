@@ -38,7 +38,7 @@ I enjoy solving complex engineering problems, designing scalable architectures, 
 Python • Java • C++ • TypeScript • SQL
 
 **Backend & Full Stack**  
-Spring Boot • FastAPI • Next.js • React • Node.js • REST APIs
+FastAPI • Next.js • React • Node.js • REST APIs
 
 **Artificial Intelligence & Machine Learning**  
 PyTorch • TensorFlow • Scikit-learn • XGBoost • LangChain • LlamaIndex • RAG • Hugging Face
@@ -50,57 +50,64 @@ Microsoft Fabric • Azure Data Factory • Azure Databricks • PySpark • Del
 PostgreSQL • Supabase • Git • GitHub • CI/CD
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🎓 GRIET Classroom — AI-Powered Learning Management Platform
-
-**Tech:** Next.js, FastAPI, Spring Boot, Supabase, RAG
+<details>
+<summary><b>🎓 GRIET Classroom — AI-Powered Learning Management Platform</b><br><em>Tech: Next.js, FastAPI, Spring Boot, Supabase, RAG</em></summary>
 
 - Built a cloud-native learning management system with full-stack architecture.
 - Integrated a RAG-based assistant to automate student queries.
 - Implemented role-based authentication and real-time database functionality.
 
-### 🛡️ NIDS-ML — Network Intrusion Detection System
+</details>
+<hr style="border: 0; border-top: 1px solid #30363d;" />
 
-**Tech:** Python, Keras, Scikit-learn, Machine Learning
+<details>
+<summary><b>🛡️ NIDS-ML — Network Intrusion Detection System</b><br><em>Tech: Python, Keras, Scikit-learn, Machine Learning</em></summary>
 
 - Developed a multi-class network intrusion detection pipeline.
-- Achieved **98.07% classification accuracy** and **0.95 F1-score**.
+- Achieved <b>98.07% classification accuracy</b> and <b>0.95 F1-score</b>.
 - Applied feature engineering and dimensionality reduction to improve model efficiency.
 
-[View Repository](https://github.com/dhanushmetuku/Network-intrusion-detection-system)
+</details>
+<a href="https://github.com/dhanushmetuku/Network-intrusion-detection-system"><b>[View Repository]</b></a>
 
-### 🎙️ Audio Tampering Detection Using Deep Learning
+<hr style="border: 0; border-top: 1px solid #30363d;" />
 
-**Tech Stack:** Python, TensorFlow, Keras, CNN, MFCC, Librosa, Audio Signal Processing
+<details>
+<summary><b>🎙️ Audio Tampering Detection Using Deep Learning</b><br><em>Tech: Python, TensorFlow, Keras, CNN, MFCC, Librosa</em></summary>
 
 - Developed a deep learning-based audio forensic system to detect potential tampering in digital audio recordings.
-- Extracted **Mel-Frequency Cepstral Coefficients (MFCCs)** to represent audio signals as meaningful features for classification.
-- Designed and trained a **Convolutional Neural Network (CNN)** to identify patterns associated with manipulated audio.
-- Achieved **63% classification accuracy** during model evaluation, establishing a baseline for further improvements.
-- Explored the application of deep learning in **digital forensics, audio authentication, and multimedia security**.
+- Extracted <b>Mel-Frequency Cepstral Coefficients (MFCCs)</b> to represent audio signals as meaningful features for classification.
+- Designed and trained a <b>Convolutional Neural Network (CNN)</b> to identify patterns associated with manipulated audio.
+- Achieved <b>63% classification accuracy</b> during model evaluation, establishing a baseline for further improvements.
+- Explored the application of deep learning in <b>digital forensics, audio authentication, and multimedia security</b>.
 
-[View Repository](https://github.com/AAC-Open-Source-Pool/Audio-Tamper-Detection)
+</details>
+<a href="https://github.com/AAC-Open-Source-Pool/Audio-Tamper-Detection"><b>[View Repository]</b></a>
 
-### 🤖 Generative AI Bot for Government Scheme Guidance
+<hr style="border: 0; border-top: 1px solid #30363d;" />
 
-**Tech:** Python, LangChain, OpenAI API, RAG, Streamlit
+<details>
+<summary><b>🤖 Generative AI Bot for Government Scheme Guidance</b><br><em>Tech: Python, LangChain, OpenAI API, RAG, Streamlit</em></summary>
 
 - Built an AI assistant that helps users discover relevant government welfare schemes.
 - Integrated voice/text interactions and retrieval-augmented generation.
 - Designed an accessible interface for personalized scheme discovery.
 
-### 📊 Customer Churn Prediction
+</details>
+<hr style="border: 0; border-top: 1px solid #30363d;" />
 
-**Tech:** Python, XGBoost, Scikit-learn
+<details>
+<summary><b>📊 Customer Churn Prediction</b><br><em>Tech: Python, XGBoost, Scikit-learn</em></summary>
 
 - Developed a customer churn prediction model using 50,000+ activity records.
 - Applied stratified cross-validation and feature engineering.
-- Achieved a **0.792 ROC-AUC score**.
+- Achieved a <b>0.792 ROC-AUC score</b>.
+
+</details>
 
 ---
-
 ## 🏆 Achievements & Competitive Programming
 
 - 🥇 **LeetCode Knight** — Peak rating of 1912, Top 4% globally, 750+ problems solved.
