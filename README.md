@@ -85,7 +85,6 @@ PostgreSQL • Supabase • Git • GitHub • CI/CD
 
 </details>
 <a href="https://github.com/AAC-Open-Source-Pool/Audio-Tamper-Detection"><b>[View Repository]</b></a>
-
 <hr style="border: 0; border-top: 1px solid #30363d;" />
 
 <details>
@@ -104,8 +103,8 @@ PostgreSQL • Supabase • Git • GitHub • CI/CD
 - Developed a customer churn prediction model using 50,000+ activity records.
 - Applied stratified cross-validation and feature engineering.
 - Achieved a <b>0.792 ROC-AUC score</b>.
-
 </details>
+<a href="https://github.com/dhanushmetuku/Customer_churn_prediction"><b>[View Repository]</b></a>
 
 ---
 ## 🏆 Achievements & Competitive Programming
