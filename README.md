@@ -122,12 +122,6 @@ PostgreSQL • Supabase • Git • GitHub • CI/CD
 
 ### 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
-**Issued by:** Microsoft  
-**Earned on:** 25 September 2026  
-**Credential ID:** `8C8896469CF18883`  
-**Certification Number:** `E2543Y-8C75A7`  
-**Status:** Online Verifiable
-
 Specialized in enterprise lakehouse architecture, data ingestion, transformation, ETL/ELT pipelines, and analytics using Microsoft Fabric.
 
 🔗 **[🏅 View & Verify Microsoft Credential](https://learn.microsoft.com/en-gb/users/dhanushmetuku-3439/credentials/8c8896469cf18883)***
